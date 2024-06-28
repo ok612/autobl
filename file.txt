@@ -119,4 +119,7 @@
 <p><a href="https://ejournal.staidapayakumbuh.ac.id/raffi/">https://ejournal.staidapayakumbuh.ac.id/raffi/</a></p>
 <p><a href="https://ejournal.staidapayakumbuh.ac.id/sule/">https://ejournal.staidapayakumbuh.ac.id/sule/</a></p>
 <p><a href="https://ejournal.staidapayakumbuh.ac.id/qris/">https://ejournal.staidapayakumbuh.ac.id/qris/</a></p>
+<p><a href="https://lib.unukase.ac.id/viartoto/">https://lib.unukase.ac.id/viartoto/</a></p>
+<p><a href="https://lib.unukase.ac.id/raffi/">https://lib.unukase.ac.id/raffi/</a></p>
+<p><a href="https://lib.unukase.ac.id/sule/">https://lib.unukase.ac.id/sule/</a></p>
 </div>
