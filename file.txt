@@ -112,6 +112,8 @@
 <p><a href="http://www.massacquire.com/">http://www.massacquire.com/</a></p>
 <p><a href="http://www.magicsafetydance.com/">http://www.magicsafetydance.com/</a></p>
 <p><a href="http://www.zachryall.co.uk/">http://www.zachryall.co.uk/</a></p>
-<p><a href="https://pendidikansosiologi.ulm.ac.id/raffi/">Slot Raffi Ahmad</a></p>
-<p><a href="https://pmbuimmakassar.ac.id/raffi/">Slot Raffi Ahmad</a></p>
+<p><a href="https://pendidikansosiologi.ulm.ac.id/raffi/">https://pendidikansosiologi.ulm.ac.id/raffi/</a></p>
+<p><a href="https://pmbuimmakassar.ac.id/raffi/">https://pmbuimmakassar.ac.id/raffi/</a></p>
+<p><a href="https://opac.unimaju.ac.id/big/raffi/">https://opac.unimaju.ac.id/big/raffi/</a></p>
+<p><a href="https://opac.unimaju.ac.id/big/sule/">https://opac.unimaju.ac.id/big/sule/</a></p>
 </div>
