@@ -131,4 +131,10 @@
 <p><a href="https://jdih.okuselatankab.go.id/raffi/">https://jdih.okuselatankab.go.id/raffi/</a></p>
 <p><a href="https://jdih.okuselatankab.go.id/sule/">https://jdih.okuselatankab.go.id/sule/</a></p>
 <p><a href="https://jdih.okuselatankab.go.id/qris/">https://jdih.okuselatankab.go.id/qris/</a></p>
+<p><a href="https://disdukcapil.bonebolangokab.go.id/viar/">https://disdukcapil.bonebolangokab.go.id/viar/</a></p>
+<p><a href="https://disdukcapil.bonebolangokab.go.id/toto/">https://disdukcapil.bonebolangokab.go.id/toto/</a></p>
+<p><a href="https://disdukcapil.bonebolangokab.go.id/sule/">https://disdukcapil.bonebolangokab.go.id/sule/</a></p>
+<p><a href="https://datakominfo.kotaprabumulih.go.id/wordpress/raffi/">https://datakominfo.kotaprabumulih.go.id/wordpress/raffi/</a></p>
+<p><a href="https://datakominfo.kotaprabumulih.go.id/wordpress/toto/">https://datakominfo.kotaprabumulih.go.id/wordpress/toto/</a></p>
+<p><a href="https://datakominfo.kotaprabumulih.go.id/wordpress/sule/">https://datakominfo.kotaprabumulih.go.id/wordpress/sule/</a></p>
 </div>
