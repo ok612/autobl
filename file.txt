@@ -116,4 +116,7 @@
 <p><a href="https://pmbuimmakassar.ac.id/raffi/">https://pmbuimmakassar.ac.id/raffi/</a></p>
 <p><a href="https://opac.unimaju.ac.id/big/raffi/">https://opac.unimaju.ac.id/big/raffi/</a></p>
 <p><a href="https://opac.unimaju.ac.id/big/sule/">https://opac.unimaju.ac.id/big/sule/</a></p>
+<p><a href="https://ejournal.staidapayakumbuh.ac.id/raffi/">https://ejournal.staidapayakumbuh.ac.id/raffi/</a></p>
+<p><a href="https://ejournal.staidapayakumbuh.ac.id/sule/">https://ejournal.staidapayakumbuh.ac.id/sule/</a></p>
+<p><a href="https://ejournal.staidapayakumbuh.ac.id/qris/">https://ejournal.staidapayakumbuh.ac.id/qris/</a></p>
 </div>
