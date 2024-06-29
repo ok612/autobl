@@ -147,4 +147,8 @@
 <p><a href="https://pmb.polteksmi.ac.id/raffi/">https://pmb.polteksmi.ac.id/raffi/</a></p>
 <p><a href="https://pmb.polteksmi.ac.id/sule/">https://pmb.polteksmi.ac.id/sule/</a></p>
 <p><a href="https://pmb.polteksmi.ac.id/scatter/">https://pmb.polteksmi.ac.id/scatter/</a></p>
+<p><a href="https://jtera.polteksmi.ac.id/public/raffi/">https://jtera.polteksmi.ac.id/public/raffi/</a></p>
+<p><a href="https://jtera.polteksmi.ac.id/public/sule/">https://jtera.polteksmi.ac.id/public/sule/</a></p>
+<p><a href="https://jtera.polteksmi.ac.id/public/dana/">https://jtera.polteksmi.ac.id/public/dana/</a></p>
+<p><a href="https://jtera.polteksmi.ac.id/public/qris/">https://jtera.polteksmi.ac.id/public/qris/</a></p>
 </div>
