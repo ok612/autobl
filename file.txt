@@ -144,4 +144,7 @@
 <p><a href="https://karir.stmikroyal.ac.id/ts/">https://karir.stmikroyal.ac.id/ts/</a></p>
 <p><a href="https://icossit.stmikroyal.ac.id/tr/">https://icossit.stmikroyal.ac.id/tr/</a></p>
 <p><a href="https://jdih.pa-sukabumi.go.id/gs/">https://jdih.pa-sukabumi.go.id/gs/</a></p>
+<p><a href="https://pmb.polteksmi.ac.id/raffi/">https://pmb.polteksmi.ac.id/raffi/</a></p>
+<p><a href="https://pmb.polteksmi.ac.id/sule/">https://pmb.polteksmi.ac.id/sule/</a></p>
+<p><a href="https://pmb.polteksmi.ac.id/scatter/">https://pmb.polteksmi.ac.id/scatter/</a></p>
 </div>
