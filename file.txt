@@ -152,4 +152,10 @@
 <p><a href="https://jtera.polteksmi.ac.id/public/dana/">https://jtera.polteksmi.ac.id/public/dana/</a></p>
 <p><a href="https://jtera.polteksmi.ac.id/public/qris/">https://jtera.polteksmi.ac.id/public/qris/</a></p>
 <p><a href="https://siakad.poltekkes-mataram.ac.id/upload/bet200/">https://siakad.poltekkes-mataram.ac.id/upload/bet200/</a></p>
+<p><a href="https://staiyamra.ac.id/raffi/">https://staiyamra.ac.id/raffi/</a></p>
+<p><a href="https://staiyamra.ac.id/sule/">https://staiyamra.ac.id/sule/</a></p>
+<p><a href="https://staiyamra.ac.id/bet200/">https://staiyamra.ac.id/bet200/</a></p>
+<p><a href="https://khdtk.ulm.ac.id/raffi/">https://khdtk.ulm.ac.id/raffi/</a></p>
+<p><a href="https://khdtk.ulm.ac.id/slot/">https://khdtk.ulm.ac.id/slot/</a></p>
+<p><a href="https://khdtk.ulm.ac.id/bet/">https://khdtk.ulm.ac.id/bet/</a></p>
 </div>
